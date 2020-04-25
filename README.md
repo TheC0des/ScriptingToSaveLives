@@ -1,5 +1,8 @@
 # Scripting to Save Lives
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f44584c0-4d89-4b18-8d84-20f063888eec/deploy-status)](https://app.netlify.com/sites/happy-heisenberg-e8838f/deploys)
+
+
 Our full post and how to help can be found <a href="https://support.glitch.com/t/scripting-to-save-lives-we-need-your-help/21753">here.</a>
 It's time that us coders reach out and help the world battle COVID-19. <a href="https://scriptingtosavelives.com">Learn more.</a>
 
