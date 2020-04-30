@@ -1,0 +1,28 @@
+{
+  "//1": "Website of Scripting To Save Lives",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "riverside",
+  "version": "0.0.1",
+  "description": "The website of Scripting To Save Lives, build on NodeJS and ExpressJS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/s2sl"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "website"
+  ]
+}
