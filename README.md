@@ -16,18 +16,16 @@ approved and work, the website will be exported to GitHub.
 - Fixing issues
 - Anything that would make the website better in your opinion.
 
-**PLEASE ONLY USE STATIC CODE: This includes:**
+**We recently changed what we accept. Please read carefully.**
 
-- Pure HTML
-- Pure CSS
-  - CSS Libraries
-- JavaScript (This does not include Node.js)
-  - JavaScript Libraries (This does not include NPM packages)
+- Static Code
+  - HTML
+  - CSS
+  - "Vanilla" JavaScript
+- Node.js
+  - This includes NPM packages
+- PHP can be used in **other packages.**
 
-We need to do this because our hosting
-provider only supports static sites. If you would like to use a backend
-language, we may be able to host it on Glitch and make it a subdomain.
-Please talk to us if you plan to do that!
 
 **How to submit your code:**
 
